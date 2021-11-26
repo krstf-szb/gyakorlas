@@ -58,4 +58,17 @@
     font-size: 70px;
     text-align: center;
     color: white;
+    position: fixed;
+    
+
+}
+
+.card{
+    background-color: #3cb878;
+    width: 180px;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 0 7px 2px gray;
+    color: white;
+
 }
